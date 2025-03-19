@@ -1,7 +1,6 @@
 ## NTU CNAD Group3 Final Project
 
-https://github.com/NTU-CNAD-Group3/.github.git
-
+This org is for NTU Cloud Native Application Development Group3 Final Project.
 <!--
 
 **Here are some ideas to get you started:**
